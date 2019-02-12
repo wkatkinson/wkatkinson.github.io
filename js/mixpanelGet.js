@@ -18,7 +18,7 @@
     }];
 
     var tableSchema = {
-      id: "Sponsor Pageviews Mixpanel",
+      id: "SponsorPageviewsMixpanel",
       columns: cols
     };
 
